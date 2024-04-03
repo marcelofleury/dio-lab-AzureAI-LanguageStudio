@@ -16,7 +16,7 @@ Os testes foram realizados de acordo com o lab fornecido pela Microsoft e dispon
 A texto utilizado como entrada na análise é o mesmo apresentado no guia do laboratório e também foi disponibilizado no arquivo textoAnalizado.md adicionado ao diretório "inputs" deste repositório.
 
 ## Resultados
-Os resultados obtidos da análise do exto são os apresentados a seguir:
+Os resultados em formato JSON obtidos da análise do texto são os apresentados a seguir:
 
 ```
 {
